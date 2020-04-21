@@ -1,0 +1,47 @@
+{
+    "name": "test",
+    "treeList": [
+        {
+            "id": 1,
+            "x": 1,
+            "y": 1,
+            "outcome": false
+        },
+        {
+            "id": 2,
+            "x": 1,
+            "y": 3,
+            "outcome": false
+        },
+        {
+            "id": 3,
+            "x": 1,
+            "y": 5,
+            "outcome": false
+        },
+        {
+            "id": 3,
+            "x": 4,
+            "y": 4,
+            "outcome": false
+        },
+        {
+            "id": 3,
+            "x": 5,
+            "y": 6,
+            "outcome": false
+        },
+        {
+            "id": 3,
+            "x": 3,
+            "y": 1,
+            "outcome": false
+        },
+        {
+            "id": 3,
+            "x": 7,
+            "y": 7,
+            "outcome": false
+        }
+    ]
+}
